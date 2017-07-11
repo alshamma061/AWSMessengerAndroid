@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v23/values-ldrtl-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/values-ldrtl-v23/values-ldrtl-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 112,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="105f413c78d9c83f12a74740084b4c4c099c07c1">
+        <dex dex="/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1282751a65989d67320eb2a4a7915a93fb1ebd0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/799 /AWSMessengerAndroid /app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2daf7131f30280f549ccf0460890fbbc5a438b67">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid /app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_dc6d74e3a6d779dcca8d028d64924ef535e98b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ced4d76c57ef97bb4e6cf405a535549544bb8b0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/aa/Desktop/799 /AWSMessengerAndroid /app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/aa/Desktop/799 /AWSMessengerAndroid /app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f3f75087f3cb6851c253c34f7a4fff9c877d90eb/classes.dex" />
+    </item>
+
+</items>

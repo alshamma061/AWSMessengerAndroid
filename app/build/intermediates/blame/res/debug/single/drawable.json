@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_facebook.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_facebook.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_theme3.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_theme3.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/perm_group_system_tools.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/perm_group_system_tools.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/other_message_bg.9.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/other_message_bg.9.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/ic_menu_compose.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/ic_menu_compose.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/ic_lock_power_off.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/ic_lock_power_off.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_folder.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_folder.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/ic_menu_add.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
+        "source": "/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/res/drawable/common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/top_bottom_border_set.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/top_bottom_border_set.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
+        "source": "/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/res/drawable/common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/rect_text_edit.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/rect_text_edit.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_theme2.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_theme2.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/user.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/user.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/ic_menu_attachment.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/ic_menu_attachment.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_google.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_google.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_theme1.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_theme1.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/selector_button_theme4.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/selector_button_theme4.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
+        "source": "/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/res/drawable/common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/progress.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/progress.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/me_message_bg.9.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/me_message_bg.9.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
+        "source": "/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/res/drawable/common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/back.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/drawable/back.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/drawable/abc_ratingbar_full_material.xml"
+    }
+]

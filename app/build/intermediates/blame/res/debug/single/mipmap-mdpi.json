@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/mipmap-mdpi/splash_icon.png",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/mipmap-mdpi/splash_icon.png"
+    }
+]

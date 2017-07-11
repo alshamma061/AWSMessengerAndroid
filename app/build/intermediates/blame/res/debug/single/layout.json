@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/chat_room_actionbar.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/chat_room_actionbar.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/conversation_row_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/conversation_row_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/dashboard_row_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/dashboard_row_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_app_analytics.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_app_analytics.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_push.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_push.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_create_chatroom.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_create_chatroom.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/prompt.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/prompt.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_content_delivery.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_content_delivery.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_nosql_show_results.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_nosql_show_results.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/list_item_icon_text_with_subtitle.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/list_item_icon_text_with_subtitle.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_nosql_select_table.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_nosql_select_table.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_nosql_select_operation.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_nosql_select_operation.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_home.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_home.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/custom_actionbar.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/custom_actionbar.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_dash_board.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_dash_board.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_chat.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_user_files.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_user_files.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/demo_nosql_select_operation_list_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/demo_nosql_select_operation_list_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_identity.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_identity.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/list_item_demo_button_icon_text.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/list_item_demo_button_icon_text.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/contact_row_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/contact_row_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/demo_nosql_select_operation_list_header.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/demo_nosql_select_operation_list_header.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/demo_nosql_select_table_list_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/demo_nosql_select_table_list_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_user_files_browser.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_user_files_browser.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_instruction.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_instruction.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/list_item_text_with_checkbox.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/list_item_text_with_checkbox.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/nav_drawer_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/nav_drawer_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/demo_content_list_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/demo_content_list_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_contacts.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_cloud_logic.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_cloud_logic.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/settings_row_item.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/settings_row_item.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/fragment_demo_user_settings.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/fragment_demo_user_settings.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/aa/.android/build-cache/5f3983cebcb58a9ecb4b15134a164128f9f06cd9/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/aa/.android/build-cache/32883061a1e0ff8de6e58a6ba1e5b74bff0a97cb/output/res/layout/abc_select_dialog_material.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_tall_off_client.png",
+        "source": "/Users/aa/.android/build-cache/3606b802f34ab813efb6036d5003e00f7797d2bd/output/res/drawable-tvdpi/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_small_off_client.png",
+        "source": "/Users/aa/.android/build-cache/3606b802f34ab813efb6036d5003e00f7797d2bd/output/res/drawable-tvdpi/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_medium_off_client.png",
+        "source": "/Users/aa/.android/build-cache/3606b802f34ab813efb6036d5003e00f7797d2bd/output/res/drawable-tvdpi/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable-tvdpi/ic_plusone_standard_off_client.png",
+        "source": "/Users/aa/.android/build-cache/3606b802f34ab813efb6036d5003e00f7797d2bd/output/res/drawable-tvdpi/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/Users/aa/Desktop/AWSMessengerApp/AWSMessengerAndroid /app/build/intermediates/res/merged/debug/drawable-tvdpi/common_full_open_on_phone.png",
+        "source": "/Users/aa/.android/build-cache/05f16645c2c0dc51c2a539a933cccd77998471fe/output/res/drawable-tvdpi/common_full_open_on_phone.png"
+    }
+]
